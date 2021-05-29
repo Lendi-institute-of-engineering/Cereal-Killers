@@ -1,0 +1,9 @@
+{
+    "name": "Scientific Calculator Extension",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "this is my extension",
+    "browser_action":{
+        "default_popup":"index.html"
+    }
+}
